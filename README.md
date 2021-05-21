@@ -7,6 +7,7 @@ ________________________________________________________________________________
 Ayrıca bu yazıyı okuyorsunuz bir ricam olacak: Lütfen GNU/Linux'tan bahsederken Linux demeyin GNU/Linux deyin.
 ____________________________________________________________________________________________________________________________________________________________________
 Bu bağlantılar kendi yazılımım BetterXP ile ilgilidir;
+
 Debian:
        https://github.com/androidprotmmas/BetterXP_Debian
        
