@@ -16,3 +16,6 @@ Fedora:
        
 Masaüstü yapılandırma dosyası:
        https://github.com/androidprotmmas/BetterXP_desktop
+____________________________________________________________________________________________________________________________________________________________________ 
+İstatistikler:
+<img src="https://github-readme-stats.vercel.app/api?username=androidprotmmas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
