@@ -1,16 +1,18 @@
-### Hi there 👋
+### Selamlar! 👋
 
-<!--
-**androidprotmmas/androidprotmmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben eski takma adımla androidprotmmas, yeni takma adımla proHami, gerçek adımla Muhammed.
 
-Here are some ideas to get you started:
+Ben Terminalden kurtulun temelli bir program yaptım, adı da BetterXP.
+Açılımı ise "Daha iyi deneyim".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+İlgi alanlarım GNU/Linux.
+
+Ayrıca bu yazıyı okuyorsunuz bir ricam olacak: Lütfen GNU/Linux'tan bahsederken Linux demeyin GNU/Linux deyin.
+
+Bu bağlantılar da BetterXP ile ilgilidir;
+Debian:
+       https://github.com/androidprotmmas/BetterXP_Debian
+Fedora:
+       https://github.com/androidprotmmas/BetterXP_Fedora
+Masaüstü yapılandırma dosyası:
+       https://github.com/androidprotmmas/BetterXP_desktop
