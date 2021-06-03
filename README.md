@@ -19,4 +19,4 @@ Masaüstü yapılandırma dosyası:
 ____________________________________________________________________________________________________________________________________________________________________ 
 İstatistikler:
 
-<img src="https://github-readme-stats.vercel.app/api?username=androidprotmmas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=androidprotmmas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=008080&bg_color=163512">
