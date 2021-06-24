@@ -6,16 +6,11 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________
 Ayrıca bu yazıyı okuyorsunuz bir ricam olacak: Lütfen GNU/Linux'tan bahsederken Linux demeyin GNU/Linux deyin.
 ____________________________________________________________________________________________________________________________________________________________________
-Bu bağlantılar kendi yazılımım BetterXP ile ilgilidir;
+Bu bağlantılar kendi yazılımım BetterXP ile ilgilidir.
 
-Debian:
-       https://github.com/androidprotmmas/BetterXP_Debian
-       
-Fedora:
-       https://github.com/androidprotmmas/BetterXP_Fedora
-       
-Masaüstü yapılandırma dosyası:
-       https://github.com/androidprotmmas/BetterXP_desktop
+Yüklemek için:
+
+https://github.com/androidprotmmas/BetterXP-Installer/blob/main/README.md
 ____________________________________________________________________________________________________________________________________________________________________ 
 İstatistikler:
 
