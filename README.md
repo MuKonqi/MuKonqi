@@ -1,17 +1,22 @@
 ### Selamlar! 👋
-____________________________________________________________________________________________________________________________________________________________________
+
 Ben takma adımla androidprotmmas, gerçek adımla Muhammed.
-____________________________________________________________________________________________________________________________________________________________________
+
 İlgi alanlarım ise GNU/Linux.
-____________________________________________________________________________________________________________________________________________________________________
+
 Ayrıca bu yazıyı okuyorsunuz bir ricam olacak: Lütfen GNU/Linux'tan bahsederken Linux demeyin GNU/Linux deyin.
+
+Hakkımda daha fazla bilgi için: https://mukonqi.ml
 ____________________________________________________________________________________________________________________________________________________________________
-Bu bağlantı, kendi yazılımım BetterXP ile ilgilidir.
+### BetterXP
 
-Yüklemek için:
+BetterXP hakkında: https://betterxp.ml
 
-https://github.com/androidprotmmas/BetterXP-Installer/blob/main/README.md
+Kurulum talimatları: https://betterxp.ml/kurulum.html
 ____________________________________________________________________________________________________________________________________________________________________ 
-İstatistikler:
+### İletişim
+Matrix: https://matrix.to/#/@androidprotmmas:matrix.org
+____________________________________________________________________________________________________________________________________________________________________ 
+### İstatistikler:
 
 <img src="https://github-readme-stats.vercel.app/api?username=androidprotmmas&&show_icons=true&title_color=000000&icon_color=FF0000&text_color=008080&bg_color=163512">
