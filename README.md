@@ -1,6 +1,6 @@
 ### Selamlar! 👋
 
-Ben takma adımla androidprotmmas, gerçek adımla Muhammed.
+Ben takma adımla androidprotmmas ya da MuKonqi, gerçek adımla Muhammed.
 
 İlgi alanlarım ise GNU/Linux.
 
