@@ -1,21 +1,18 @@
 ### Selamlar! 👋
 
-Ben takma adımla androidprotmmas ya da MuKonqi, gerçek adımla Muhammed.
+Ben takma adımla androidprotmmas ya da MuKonqi, gerçek adımla Muhammed Abdurrahman.
 
-İlgi alanlarım ise GNU/Linux.
+İlgi alanlarım ise GNU/Linux, Python, Tkinter, HTML.
 
 Ayrıca bu yazıyı okuyorsunuz bir ricam olacak: Lütfen GNU/Linux'tan bahsederken Linux demeyin GNU/Linux deyin.
 
-Hakkımda daha fazla bilgi için: https://mukonqi.ml
+Hakkımda daha fazla bilgi için [buraya](https://mukonqi.ml) tıklabilirsiniz.
 ____________________________________________________________________________________________________________________________________________________________________
-### BetterXP
-
-BetterXP hakkında: https://betterxp.ml
-
-Kurulum talimatları: https://betterxp.ml/kurulum.html
+### [BetterXP](https://betterxp.ml)
+BetterXP, GNU/Linux işletim sistemi için birçok özelliğe sahip bir araç kitidir. Detaylı bilgi için [buraya](https://betterxp.ml/betterxp.html) tıklayabilirsiniz.
 ____________________________________________________________________________________________________________________________________________________________________ 
 ### İletişim
-Matrix: https://matrix.to/#/@androidprotmmas:matrix.org
+[Matrix](https://matrix.to/#/@mukonqi:kde.org)
 ____________________________________________________________________________________________________________________________________________________________________ 
 ### İstatistikler:
 
