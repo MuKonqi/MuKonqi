@@ -9,10 +9,10 @@ Ayrıca bu yazıyı okuyorsunuz bir ricam olacak: Lütfen GNU/Linux'tan bahseder
 Hakkımda daha fazla bilgi için [buraya](https://mukonqi.ml) tıklabilirsiniz.
 ____________________________________________________________________________________________________________________________________________________________________
 ### [BetterXP](https://betterxp.ml)
-BetterXP, GNU/Linux işletim sistemi için birçok özelliğe sahip bir araç kitidir. Detaylı bilgi için [buraya](https://betterxp.ml/pages/betterxp.html) tıklayabilirsiniz.
+BetterXP, GNU/Linux işletim sistemi için birçok özelliğe sahip bir araç kitidir. Detaylı bilgi için [buraya](https://betterxp.ml/indextwo.html), kurulum için de [buraya](https://betterxp.ml/kurulum.html) tıklayabilirsiniz.
 ____________________________________________________________________________________________________________________________________________________________________ 
 ### İletişim
-[Matrix](https://matrix.to/#/@mukonqi:kde.org)
+[Matrix (@mukonqi:kde.org)](https://matrix.to/#/@mukonqi:kde.org)
 ____________________________________________________________________________________________________________________________________________________________________ 
 ### İstatistikler:
 
