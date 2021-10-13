@@ -1,6 +1,6 @@
 ### Selamlar! 👋
 
-Ben takma adımla androidprotmmas ya da MuKonqi, gerçek adımla Muhammed Abdurrahman.
+Ben takma adımla MuKonqi, gerçek adımla Muhammed Abdurrahman.
 
 İlgi alanlarım ise GNU/Linux, Python, Tkinter, HTML.
 
