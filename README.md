@@ -17,3 +17,4 @@ ________________________________________________________________________________
 ### İstatistikler:
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuKonqi&&show_icons=true&title_color=000000&icon_color=FF0000&text_color=008080&bg_color=163512">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuKonqi">
