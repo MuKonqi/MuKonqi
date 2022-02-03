@@ -4,7 +4,7 @@ Ben takma adımla MuKonqi, gerçek adımla Muhammed Abdurrahman.
 
 İlgi alanlarım ise GNU/Linux, Python, Tkinter, HTML.
 
-Ayrıca bu yazıyı okuyorsunuz bir ricam olacak: Lütfen GNU/Linux'tan bahsederken Linux demeyin GNU/Linux deyin -dağıtımın adını da tabii ki değiştirmeyin-.
+Ayrıca bu yazıyı okuyorsanuz bir ricam olacak: Lütfen GNU/Linux'tan bahsederken Linux demeyin GNU/Linux deyin -eğer bir dağıtımdan bahsediyorsanız o dağıtımın adını da tabii ki değiştirmeyin-.
 
 Hakkımda daha fazla bilgi için [buraya](https://mukonqi.github.io) tıklabilirsiniz.
 ____________________________________________________________________________________________________________________________________________________________________
