@@ -2,7 +2,7 @@
 
 Ben takma adımla MuKonqi, gerçek adımla Muhammed Abdurrahman.
 
-İlgi alanlarım ise GNU/Linux, Python, Tkinter, HTML.
+İlgi alanlarım ise GNU/Linux, Python, Tkinter, HTML, CSS.
 
 Ayrıca bu yazıyı okuyorsanuz bir ricam olacak: Lütfen GNU/Linux'tan bahsederken Linux demeyin GNU/Linux deyin -eğer bir dağıtımdan bahsediyorsanız o dağıtımın adını da tabii ki değiştirmeyin-.
 
