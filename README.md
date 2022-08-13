@@ -26,9 +26,6 @@ Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 * As operating system on mobile:
 1. Andorid 12
 2. Andorid 9
-* As browser:
-1. Mozilla Firefox on PC
-2. Iceraven on mobile
 * As code editor:
 1. VS Code
 ### Statistics:
