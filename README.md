@@ -8,7 +8,7 @@ Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 ### My Projects
 ◻️ [MetterXP toolbox](https://mukonqi.github.io/metterxp)
 
-<!-- ◻️ [Projgit](https://github.com/MuKonqi/projgit) -->
+◻️ [Projgit](https://github.com/MuKonqi/projgit)
 
 ◻️ [BetterSS screenshot wrapper](https://github.com/MuKonqi/betterss)
 
