@@ -8,15 +8,17 @@ Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 ### My Projects
 ◻️ [MetterXP toolbox](https://mukonqi.github.io/metterxp)
 
+<!-- ◻️ [Projgit](https://github.com/MuKonqi/projgit) -->
+
 ◻️ [BetterSS screenshot wrapper](https://github.com/MuKonqi/betterss)
 
-◻️ [peytehow (sample app for Python3 and Tkinter)](https://github.com/MuKonqi/peytehow)
+◻️ [Peytehow (sample app for Python3 and Tkinter)](https://github.com/MuKonqi/peytehow)
 
-◻️ [apiutaller (application installer and uninstaller for GNU/Linux)](https://github.com/MuKonqi/apiutaller)
+◻️ [Apiutaller (application installer and uninstaller for GNU/Linux)](https://github.com/MuKonqi/apiutaller)
 
-◻️ [yasfetch (yet another simple information retrieval application for GNU/Linux written in Python3)](https://github.com/MuKonqi/yasfetch)
+◻️ [Yasfetch (yet another simple information retrieval application for GNU/Linux written in Python3)](https://github.com/MuKonqi/yasfetch)
 
-◻️ [teafunknown [for any program (eg an installer/uninstaller)] or a script for fun](https://github.com/MuKonqi/teafunknown)
+◻️ [TEAf [for any program (eg an installer/uninstaller)] or a script for fun](https://github.com/MuKonqi/teafunknown)
 
 ◻️ [My personal website and blog](https://github.com/MuKonqi/mukonqi.github.io)
 
