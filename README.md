@@ -23,6 +23,9 @@ Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 ◻️ [My personal website and blog](https://github.com/MuKonqi/mukonqi.github.io)
 
 ◻️ [MetterXP toolbox's website](https://github.com/MuKonqi/metterxp/tree/site)
+
+◻️ [Customization: newtab](https://github.com/MuKonqi/newtab)
+
 ### I use...
 * As operating system on PC:
 1. GNU/Linux [Fedora Linux WS 36 (DE: KDE, GNOME)]
