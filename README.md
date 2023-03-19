@@ -31,8 +31,8 @@ Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 1. GNU/Linux [Fedora Linux WS 36 (DE: KDE, GNOME)]
 2. Windows 8.1
 * As operating system on mobile:
-1. Andorid 12
-2. Andorid 9
+1. Android 12
+2. Android 9
 * As code editor:
 1. VS Code
 ### Statistics:
