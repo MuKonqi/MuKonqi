@@ -24,8 +24,7 @@ Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 ◻️ [📝 Customization: newtab](https://github.com/MuKonqi/newtab)
 
 ◻️ [❌ (Discontinued) BetterSS](https://github.com/MuKonqi/betterss)
-### My system:
-💻 HP Victus 16 68P42EA
+### My system: 💻 HP Victus 16 68P42EA
 Processor: AMD Ryzen 5 5600H
 
 External Graphics Card: Nvidia RTX 3060 Mobile 95W
