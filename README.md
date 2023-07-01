@@ -1,5 +1,4 @@
 ### Hello! 👋
-
 My nickname is MuKonqi and MuKonqi04. My real name is Muhammed Abdurrahman. I finished 14 year in world.
 ### Contact
 Matrix: [@mukonqi:kde.org](https://matrix.to/#/@mukonqi:kde.org)
@@ -9,8 +8,6 @@ Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 ◻️ [MetterXP toolbox](https://mukonqi.github.io/metterxp)
 
 ◻️ [Projgit](https://github.com/MuKonqi/projgit)
-
-◻️ [BetterSS screenshot wrapper](https://github.com/MuKonqi/betterss)
 
 ◻️ [Peytehow (sample app for Python3 and Tkinter)](https://github.com/MuKonqi/peytehow)
 
@@ -24,17 +21,13 @@ Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 
 ◻️ [MetterXP toolbox's website](https://github.com/MuKonqi/metterxp/tree/site)
 
-◻️ [Customization: newtab](https://github.com/MuKonqi/newtab)
+◻️ [📝 Customization: newtab](https://github.com/MuKonqi/newtab)
 
-### I use...
-* As operating system on PC:
-1. GNU/Linux [Fedora Linux WS 36 (DE: KDE, GNOME)]
-2. Windows 8.1
-* As operating system on mobile:
-1. Android 12
-2. Android 9
-* As code editor:
-1. VS Code
-### Statistics:
-<img src="https://github-readme-stats.vercel.app/api?username=MuKonqi&&show_icons=true&title_color=FFFFFF&icon_color=376296&text_color=FFA500&bg_color=000000">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuKonqi&&show_icons=true&title_color=FFFFFF&icon_color=376296&text_color=FFA500&bg_color=000000">
+◻️ [❌ (Discontinued) BetterSS](https://github.com/MuKonqi/betterss)
+### My system:
+💻 HP Victus 16 68P42EA
+Processor: AMD Ryzen 5 5600H
+External Graphics Card: Nvidia RTX 3060 Mobile 95W
+RAM: 2 x Kingston Fury Impact KF432S20IB/8
+Storage: SK hynix PC711 HFS512GDE9X073N
+Operating Systems: Windows 11 Pro and Fedora Linux KDE Spin
