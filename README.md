@@ -25,7 +25,7 @@ Discord: [mukonqi](https://discord.com/channels/@me/980440858245623838)
 
 ◻️ [My new tab work](https://github.com/MuKonqi/newtab)
 
-### My system: 💻 HP Victus 16 68P42EA
+### My system: 💻 HP Victus 16-e0073nt (68P42EA)
 
 Processor: AMD Ryzen 5 5600H
 
