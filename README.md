@@ -5,26 +5,26 @@ Matrix: [@mukonqi:kde.org](https://matrix.to/#/@mukonqi:kde.org)
 
 Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 ### My Projects
-◻️ [MetterXP toolbox](https://mukonqi.github.io/metterxp)
+◻️ [MetterXP (advanced toolbox)](https://mukonqi.github.io/metterxp)
 
-◻️ [Projgit](https://github.com/MuKonqi/projgit)
+◻️ [Projgit (for publishing changes to Git repositories)](https://github.com/MuKonqi/projgit)
 
-◻️ [Peytehow (sample app for Python3 and Tkinter)](https://github.com/MuKonqi/peytehow)
+◻️ [Peytehow (example app for Python3 and Tkinter)](https://github.com/MuKonqi/peytehow)
 
 ◻️ [Apiutaller (application installer and uninstaller for GNU/Linux)](https://github.com/MuKonqi/apiutaller)
 
-◻️ [Yasfetch (yet another simple information retrieval application for GNU/Linux written in Python3)](https://github.com/MuKonqi/yasfetch)
+◻️ [Yasfetch (Getting system information for GNU/Linux)](https://github.com/MuKonqi/yasfetch)
 
-◻️ [TEAf [for any program (eg an installer/uninstaller)] or a script for fun](https://github.com/MuKonqi/teafunknown)
+◻️ [TEAf (example / fun script)](https://github.com/MuKonqi/teaf)
 
-◻️ [My personal website and blog](https://github.com/MuKonqi/mukonqi.github.io)
+◻️ [My personal website](https://github.com/MuKonqi/mukonqi.github.io)
 
-◻️ [MetterXP toolbox's website](https://github.com/MuKonqi/metterxp/tree/site)
+◻️ [Website for MetterXP](https://github.com/MuKonqi/metterxp/tree/site)
 
-◻️ [📝 Customization: newtab](https://github.com/MuKonqi/newtab)
+◻️ [My new tab work](https://github.com/MuKonqi/newtab)
 
-◻️ [❌ (Discontinued) BetterSS](https://github.com/MuKonqi/betterss)
-### My system: 💻 HP Victus 16 68P42EA
+My system: 💻 HP Victus 16 68P42EA
+
 Processor: AMD Ryzen 5 5600H
 
 External Graphics Card: Nvidia RTX 3060 Mobile 95W
