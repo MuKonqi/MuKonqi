@@ -1,9 +1,11 @@
-### Hello! 👋
-My nickname is MuKonqi and MuKonqi04. My real name is Muhammed Abdurrahman. I finished 14 year in world.
+### Hello!
+I am Muhammed Abdurrahman! I am 15 years old.
+
+I like informatics, vehicle simulation games and racing games.
 ### Contact
 Matrix: [@mukonqi:kde.org](https://matrix.to/#/@mukonqi:kde.org)
 
-Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
+Discord: [mukonqi](https://discord.com/channels/@me/980440858245623838)
 ### My Projects
 ◻️ [MetterXP (advanced toolbox)](https://mukonqi.github.io/metterxp)
 
@@ -23,14 +25,14 @@ Discord: [MuKonqi#9558](https://discord.com/channels/@me/980440858245623838)
 
 ◻️ [My new tab work](https://github.com/MuKonqi/newtab)
 
-My system: 💻 HP Victus 16 68P42EA
+### My system: 💻 HP Victus 16 68P42EA
 
 Processor: AMD Ryzen 5 5600H
 
 External Graphics Card: Nvidia RTX 3060 Mobile 95W
 
-RAM: 2 x Kingston Fury Impact KF432S20IB/8
+RAM: 2 x Kingston Fury Impact KF432S20IB 8 GB
 
-Storage: SK hynix PC711 HFS512GDE9X073N
+Storage: SK hynix PC711 HFS512GDE9X073N + Kioxia Exceria G2
 
-Operating Systems: Windows 11 Pro and Fedora Linux KDE Spin
+Operating Systems: Windows 11 Pro + Fedora Linux KDE Spin
