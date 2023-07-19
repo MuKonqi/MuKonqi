@@ -1,12 +1,9 @@
-### Hello!
-I am Muhammed Abdurrahman! I am 15 years old.
-
-I like informatics, vehicle simulation games and racing games.
-### Contact
+# Hello!
+## Contact
 Matrix: [@mukonqi:kde.org](https://matrix.to/#/@mukonqi:kde.org)
 
 Discord: [mukonqi](https://discord.com/channels/@me/980440858245623838)
-### My Projects
+## List Of My All Continuing Projecets
 ◻️ [MetterXP (advanced toolbox)](https://mukonqi.github.io/metterxp)
 
 ◻️ [Projgit (for publishing changes to Git repositories)](https://github.com/MuKonqi/projgit)
@@ -25,7 +22,7 @@ Discord: [mukonqi](https://discord.com/channels/@me/980440858245623838)
 
 ◻️ [My new tab work](https://github.com/MuKonqi/newtab)
 
-### My system: 💻 HP Victus 16-e0073nt (68P42EA)
+## My system: 💻 HP Victus 16-e0073nt (68P42EA)
 
 Processor: AMD Ryzen 5 5600H
 
