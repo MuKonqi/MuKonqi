@@ -36,6 +36,4 @@ External Graphics Card: Nvidia RTX 3060 Mobile 95W
 
 RAM: 2 x Kingston Fury Impact KF432S20IB 8 GB
 
-Storage: SK hynix PC711 HFS512GDE9X073N + Kioxia Exceria G2
-
-Operating Systems: Windows 11 Pro + Fedora Linux KDE Spin
+Storage: SK hynix PC711 HFS512GDE9X073N + Kioxia Exceria G2 1 TB
