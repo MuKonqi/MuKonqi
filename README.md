@@ -4,7 +4,7 @@ Matrix: [@mukonqi:kde.org](https://matrix.to/#/@mukonqi:kde.org)
 
 Discord: [mukonqi](https://discord.com/channels/@me/980440858245623838)
 ## List Of My All Continuing Projecets
-◻️ [MetterXP (advanced toolbox)](https://mukonqi.github.io/metterxp)
+◻️ [MetterXP (advanced tool box)](https://mukonqi.github.io/metterxp)
 
 ◻️ [Mukander (simple command starter)](https://github.com/MuKonqi/mukander)
 
