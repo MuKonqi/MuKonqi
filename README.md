@@ -24,10 +24,6 @@ Discord: [mukonqi](https://discord.com/channels/@me/980440858245623838)
 
 ◻️ [My personal website](https://github.com/MuKonqi/mukonqi.github.io)
 
-◻️ [Website for MetterXP](https://github.com/MuKonqi/metterxp/tree/site)
-
-◻️ [My new tab work](https://github.com/MuKonqi/newtab)
-
 ## My system: 💻 HP Victus 16-e0073nt (68P42EA)
 
 Processor: AMD Ryzen 5 5600H
