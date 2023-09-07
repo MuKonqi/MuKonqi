@@ -1,5 +1,6 @@
 # Hello!
-I'm lover IT, vehicle games and simulation games.
+
+I'm lover informatics, vehicle games and simulation games.
 
 I make projects with my what I know.
 
