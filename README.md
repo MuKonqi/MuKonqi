@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a student which loves technology and vehicles.
+I'm a student who loves technology and vehicles.
 
 I make some basic projects with my knowledge.
 
